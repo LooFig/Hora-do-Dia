@@ -6,4 +6,4 @@ Informa as horas e os minutos. E a saudação e o layout mudam conforme o horár
 - Boa madrugada: 00h às 05:59
 
 
-<div align="center" ><img src="https://user-images.githubusercontent.com/88912921/139958992-c729ba03-b1f3-4009-a938-465ca5f15142.png"  width = 200px heigth = 200px></div>
+<div><img src="https://user-images.githubusercontent.com/88912921/139958992-c729ba03-b1f3-4009-a938-465ca5f15142.png"  width = 300px heigth = 300px></div>
