@@ -1,5 +1,5 @@
 <h1 align="center"> Hora do Dia ☀️⛅🌙 </h1>
-<p>Informa as horas e os minutos. E a saudação e o layout mudam conforme o horário.</p>
+<p>A saudação e o layout mudam conforme o horário:</p>
 <li>Bom dia: 06h às 11:59</li>
 <li>Boa tarde: 12h às 17:59</li>
 <li>Boa noite: 18h às 23:59</li>
