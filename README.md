@@ -1,9 +1,8 @@
-# Hora do Dia ☀️⛅🌙
-Informa as horas e os minutos. E a saudação e o layout mudam conforme o horário.
-- Bom dia: 06h às 11:59
-- Boa tarde: 12h às 17:59
-- Boa noite: 18h às 23:59
-- Boa madrugada: 00h às 05:59
+<h1 align="center"> Hora do Dia ☀️⛅🌙 </h1>
+<p>Informa as horas e os minutos. E a saudação e o layout mudam conforme o horário.</p>
+<li>Bom dia: 06h às 11:59</li>
+<li>Boa tarde: 12h às 17:59</li>
+<li>Boa noite: 18h às 23:59</li>
+<li>Boa madrugada: 00h às 05:59</li><br>
 
-
-<div><img src="https://user-images.githubusercontent.com/88912921/139958992-c729ba03-b1f3-4009-a938-465ca5f15142.png"  width = 400px heigth = 400px></div>
+![hdi](https://user-images.githubusercontent.com/97335833/151880173-c21d2064-15b2-4d8b-be83-fb738fd1aa4b.gif)
